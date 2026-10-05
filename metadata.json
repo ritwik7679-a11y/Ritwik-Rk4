@@ -1,0 +1,6 @@
+{
+  "name": "Aura Voice",
+  "description": "Smart hands-free AI voice assistant for Android with app launcher, caller announcement, voice call answering, message reader, and phone controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
